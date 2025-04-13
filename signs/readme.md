@@ -1,0 +1,9 @@
+# Signs/Zīmes
+* Additional/Papildzīmes
+* Information/Informācijas
+* Mandatory/Rīkojuma
+* Priority/Priekšrocības
+* Prohibitory/Aizlieguma
+* Regulation/Norādījuma
+* Service/Servisa
+* Warning/Brīdinājuma
